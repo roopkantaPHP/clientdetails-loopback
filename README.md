@@ -1,2 +1,2 @@
 # clientdetails-loopback
-Rest API to do crud operation using Loopback
+Rest API to do CRUD operation using Loopback
